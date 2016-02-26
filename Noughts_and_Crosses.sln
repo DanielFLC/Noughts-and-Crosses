@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Noughts_and_Crosses", "Noughts_and_Crosses\Noughts_and_Crosses.vcxproj", "{B357C537-A351-4300-B163-6CAFF5AE49AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B357C537-A351-4300-B163-6CAFF5AE49AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B357C537-A351-4300-B163-6CAFF5AE49AB}.Debug|Win32.Build.0 = Debug|Win32
+		{B357C537-A351-4300-B163-6CAFF5AE49AB}.Release|Win32.ActiveCfg = Release|Win32
+		{B357C537-A351-4300-B163-6CAFF5AE49AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

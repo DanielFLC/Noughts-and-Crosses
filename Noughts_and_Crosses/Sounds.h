@@ -1,0 +1,12 @@
+//		Sounds:
+#define	STARTGAMESOUND		"Sounds/prepare_to_fight.wav"
+#define	FIRSTWINSOUND		"Sounds/firstblood.wav"
+#define	WINSOUND			"Sounds/headshot.wav"
+#define	DRAWSOUND			"Sounds/mutualdestruction.wav"
+#define	MOVEBLOCKSOUND		"Sounds/WoodKnock.wav"
+#define	DENIEDSOUND			"Sounds/denied.wav"
+#define	PAYBACKSOUND		"Sounds/payback.wav"
+#define	CLOSEWINDOWSOUND	"Sounds/window_slide_shut.wav"
+#define	OPENWINDOWSOUND		"Sounds/window_slide_open.wav"
+#define	SWITCHLIGHTSOUND	"Sounds/switch_light.wav"
+#define	WINDSOUND			"Sounds/wind_sound.wav"
